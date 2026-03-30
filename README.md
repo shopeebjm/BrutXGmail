@@ -16,9 +16,8 @@
 
 Now Enter Username of the persons id you want access)
 
-Now to use this tool you will be automatically redirected to our
-YouTube channel do subscribe and click on Bell icon and come back
-to Termux and you Will be able to use this tool for free
+Sekarang, masukkan nama pengguna (ID) orang yang ingin Anda akses.
 
-Hope & You Love the tool and for any queries or error join our Hacking
-our Channel 👉🏼 https://youtube.com/@hackers_colony_tech?si=7MbI9sm2pOPC1LP_
+Sekarang untuk menggunakan alat ini, Anda akan secara otomatis dialihkan ke saluran YouTube kami. Silakan berlangganan dan klik ikon lonceng, lalu kembali ke Termux dan Anda akan dapat menggunakan alat ini secara gratis.
+
+Semoga Anda menyukai alat ini dan untuk pertanyaan atau kesalahan apa pun, bergabunglah dengan saluran Hacking kami 👉🏼 https://youtube.com/@hackers_colony_tech?si=7MbI9sm2pOPC1LP_
