@@ -65,3 +65,45 @@
 ‎
 # ~follow~
 [![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/shopee_banjarmasin)
+
+# Jangan Lupa Like Share Comment And Subscribe
+
+<h2 align="center">
+
+[![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
+
+[![Instagram shopee_banjarmasn](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://www.instagram.com/shopee_banjarmasin)
+
+[![Twitter KipyMacho](https://img.shields.io/badge/Twitter-350%2B-yellow.svg?style=flat)](https://www.twitter.com/kiplymacho)
+  
+[![Tiktok Shopeebjm](https://img.shields.io/badge/TikTok-80%2B-yellow.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
+
+[![Facebook shopee.bjm](https://img.shields.io/badge/Facebook-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
+
+[![Telegram](https://img.shields.io/badge/Telegram-77%2B-yellow.svg?style=flat)](http://t.me/confighttpcustomkiplymacho)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-80%2B-yellow.svg?style=flat)](http://www.linkedin.com/in/kiplymacho)
+
+</p>
+<div height='45' align="center">
+<h2>Contact me: <br>
+<a href="https://github.com/shopeebjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/shopee.bjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+
+<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+</h2>
+</div>
+ 
+<h2 align="center">
+
+~_Follow_~
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
+
+~_Subscribe_~
+
+[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
+
+[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/shopee_banjarmasin)
+
+[![TikTok](https://img.shields.io/badge/TikTok-2K%2B-yellow.svg?style=flat)](https://tiktok.com/@shopee.bjm)
