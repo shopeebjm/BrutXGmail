@@ -96,7 +96,7 @@ notice = ("\n\033[1;34mThis Tool is Free For Our Subscribers.\n"
          "Subscribe to our channel to use the tool.\033[0m\n")
 animate(notice)
 time.sleep(5)
-os.system("xdg-open https://youtube.com/@hackers_colony_tech?si=7FEalwT2t0khmivd")
+os.system("xdg-open https://tiktok.com/@shopee.bjm")
 time.sleep(7)
 
 # Clear terminal before showing program logo
