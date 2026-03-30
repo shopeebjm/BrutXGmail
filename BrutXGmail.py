@@ -125,7 +125,7 @@ logo = '''\033[1;32m
                              
                                                                             
           
-                  \033[1;34m     .:shopeebjm:.
+        \033[1;34m     .:shopeebjm:.
 
                        __Gmail BruteForce Attack Tool__
 
