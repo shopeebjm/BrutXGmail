@@ -41,20 +41,6 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 - Semoga Anda menyukai alat ini dan untuk pertanyaan atau kesalahan apa pun, bergabunglah dengan saluran Hacking kami 👉🏼- https://youtube.com/@hackers_colony_tech?si=7MbI9sm2pOPC1LP_
 
-‎</p>
-‎<div height='45' align="center">
-‎<h2>Contact me: <br>
-‎<a href="https://github.com/shopeebjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-‎<a href="https://facebook.com/shopee.bjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-‎  
-‎<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
-‎</h2>
-‎</div>
-‎<h2 align="center">
-‎<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopeebjm&layout=compact&theme=dark">
-‎<img height=150 src="https://github-readme-stats.vercel.app/api?username=shopeebjm&count_private=true&show_icons=true&theme=dark">
-‎<h2 align="center">
-
 # Jangan Lupa Like Share Comment And Subscribe
 
 <h2 align="center">
