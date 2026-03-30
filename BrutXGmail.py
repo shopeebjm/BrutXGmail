@@ -85,7 +85,7 @@ banner = '''\033[1;32m
 
 
 
-\033[1;31m                     :: BrutXGmail - By Hackers Colony ::
+\033[1;31m                     :: BrutXGmail - By shopeebjm ::
 \033[0m
 '''
 animate(banner)
@@ -125,7 +125,7 @@ logo = '''\033[1;32m
                              
                                                                             
           
-            \033[1;34m     .:H a c k e r  C o l o n y  O f f i c i a l:.
+            \033[1;34m     .:shopeebjm:.
 
                        __Gmail BruteForce Attack Tool__
 
