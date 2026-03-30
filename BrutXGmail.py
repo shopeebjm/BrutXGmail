@@ -133,8 +133,8 @@ logo = '''\033[1;32m
 animate(logo)
 
 # Instructions
-dictr = "\033[1;32m\n[+] Ensure the wordlist is in the same directory as this script.\n"
-vpnu = "[+] Use VPN for better anonymity.\n\033[0m\n\n"
+dictr = "\033[1;32m\n[+] Pastikan daftar kata berada di direktori yang sama dengan skrip ini.\n"
+vpnu = "[+] Gunakan VPN untuk anonimitas yang lebih baik.\n\033[0m\n\n"
 animate(dictr)
 animate(vpnu)
 
