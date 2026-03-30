@@ -54,17 +54,6 @@
 ‎<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopeebjm&layout=compact&theme=dark">
 ‎<img height=150 src="https://github-readme-stats.vercel.app/api?username=shopeebjm&count_private=true&show_icons=true&theme=dark">
 ‎<h2 align="center">
-‎
-# ~Media Sosial~
-‎[![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm/)
-
-‎[![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
-‎
-# ~subscribe~
-[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
-‎
-# ~follow~
-[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/shopee_banjarmasin)
 
 # Jangan Lupa Like Share Comment And Subscribe
 
@@ -95,15 +84,3 @@
 </div>
  
 <h2 align="center">
-
-~_Follow_~
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
-
-~_Subscribe_~
-
-[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
-
-[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/shopee_banjarmasin)
-
-[![TikTok](https://img.shields.io/badge/TikTok-2K%2B-yellow.svg?style=flat)](https://tiktok.com/@shopee.bjm)
