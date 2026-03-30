@@ -8,7 +8,7 @@
 
 ✅ 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗽𝘆𝘁𝗵𝗼𝗻𝟯
 
-✅ 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 https://github.com/Hackerscolonyofficial/BrutXGmail.git
+✅ 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 https://github.com/shopeebjm/BrutXGmail
 
 ✅ 𝗰𝗱 𝗕𝗿𝘂𝘁𝗫𝗚𝗺𝗮𝗶𝗹
 
