@@ -82,5 +82,3 @@
 <a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 </h2>
 </div>
- 
-<h2 align="center">
