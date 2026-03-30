@@ -33,7 +33,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 ✅ 𝗰𝗱 𝗕𝗿𝘂𝘁𝗫𝗚𝗺𝗮𝗶𝗹
 
-✅ 𝗽𝘆𝘁𝗵𝗼𝗻𝟯 𝗕𝗿𝘂𝘁𝗫𝗚𝗺𝗮𝗶𝗹
+✅ 𝗽𝘆𝘁𝗵𝗼𝗻𝟯 𝗕𝗿𝘂𝘁𝗫𝗚𝗺𝗮𝗶𝗹.py
 
 - Sekarang, masukkan nama pengguna (ID) orang yang ingin Anda akses.
 
