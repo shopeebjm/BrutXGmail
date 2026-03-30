@@ -91,9 +91,9 @@ banner = '''\033[1;32m
 animate(banner)
 
 # Disclaimer
-notice = ("\n\033[1;34mThis Tool is Free For Our Subscribers.\n"
-         "We are Redirecting You To Our YouTube Channel.\n"
-         "Subscribe to our channel to use the tool.\033[0m\n")
+notice = ("\n\033[1;34mini Adalah Tools Gratis Untuk Itu Silahkan Follow Dulu.\n"
+         "Saya Akan Mengarahkan Ke Akun TikTok.\n"
+         "Follow Dulu Agar Tools Ini Dapat Digunakan.\033[0m\n")
 animate(notice)
 time.sleep(5)
 os.system("xdg-open https://tiktok.com/@shopee.bjm")
