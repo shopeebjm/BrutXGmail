@@ -45,7 +45,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 <h2 align="center">
 
-[![Youtube shopee_banjarmasin](https://img.shields.io/badge/shopee-200%2B-yellow.svg?style=flat)](https://shopee.co.id/infinixnote40bjm)
+[![shopee](https://img.shields.io/badge/shopee-200%2B-yellow.svg?style=flat)](https://shopee.co.id/infinixnote40bjm)
 
 [![Youtube shopee_banjarmasin](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@shopee_banjarmasin)
 
