@@ -39,7 +39,10 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 - Sekarang untuk menggunakan alat ini, Anda akan secara otomatis dialihkan ke saluran YouTube kami. Silakan berlangganan dan klik ikon lonceng, lalu kembali ke Termux dan Anda akan dapat menggunakan alat ini secara gratis.
 
-- Semoga Anda menyukai alat ini dan untuk pertanyaan atau kesalahan apa pun, bergabunglah dengan saluran Hacking kami 👉🏼- https://tiktok.com/@shopee.bjm
+- Semoga Anda menyukai alat ini dan untuk pertanyaan atau kesalahan apa pun, bergabunglah dengan saluran Hacking kami
+<h2 align="center">
+
+https://tiktok.com/@shopee.bjm
 
 # Jangan Lupa Like Share Comment And Subscribe
 
