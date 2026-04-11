@@ -30,17 +30,19 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 # Kamu dapat Menemukan Dan Tau Password Gmail 🔑😈
 
-✅ 𝗮𝗽𝘁 𝘂𝗽𝗱𝗮𝘁𝗲 && 𝗮𝗽𝘁 𝘂𝗽𝗴𝗿𝗮𝗱𝗲
+```
+pkg update && pkg upgrade
 
-✅ 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗶𝘁
+pkg install git
 
-✅ 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗽𝘆𝘁𝗵𝗼𝗻𝟯
+pkg install python3
 
-✅ 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 https://github.com/shopeebjm/BrutXGmail
+git clone https://github.com/shopeebjm/BrutXGmail
 
-✅ 𝗰𝗱 𝗕𝗿𝘂𝘁𝗫𝗚𝗺𝗮𝗶𝗹
+cd BrutXGmail
 
-✅ 𝗽𝘆𝘁𝗵𝗼𝗻𝟯 𝗕𝗿𝘂𝘁𝗫𝗚𝗺𝗮𝗶𝗹.py
+pythone BrutXGmail.py
+```
 
 - Sekarang, masukkan nama pengguna (ID) orang yang ingin Anda akses.
 
