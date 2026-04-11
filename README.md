@@ -41,7 +41,7 @@ git clone https://github.com/shopeebjm/BrutXGmail
 
 cd BrutXGmail
 
-pythone BrutXGmail.py
+python3 BrutXGmail.py
 ```
 
 - Sekarang, masukkan nama pengguna (ID) orang yang ingin Anda akses.
