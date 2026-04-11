@@ -29,7 +29,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 
 # Kamu dapat Menemukan Dan Tau Password Gmail 🔑😈
-
+- Ketikkan Perintah Dibawah ini:
 ```
 pkg update && pkg upgrade
 
